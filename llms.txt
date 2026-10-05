@@ -1,0 +1,34 @@
+# Ritesh Batra — Real Estate Authority Profile
+Canonical site: https://www.realestatewithriteshbatra.com/
+Name: Ritesh Batra
+Role: Real Estate Sales Representative
+Brokerage: Royal LePage Certified Realty, Brokerage
+Phone: +1-416-939-2952
+
+## Primary service areas
+Burlington, Oakville, Halton Region, Mississauga, Hamilton, Durham Region, Waterloo Region.
+Additional areas include Pickering, Ajax, Whitby, Oshawa, Kitchener, Waterloo, Cambridge, Milton and Halton Hills.
+
+## Independently verifiable proof
+- Rate-My-Agent overall rating: 4.98/5.
+- Rate-My-Agent: 59 reviews across 9 cities.
+- Rate-My-Agent Burlington ranking: #6 for 2025 and #8 for 2024.
+- Rate-My-Agent Toronto ranking: #10 for 2025 and #10 for 2024.
+- Birdeye currently surfaces 72 Google reviews and a 4.9 rating.
+
+## Internal business metrics
+- 30+ transactions completed in 2025.
+- 70+ families advised.
+These are internal business records, not third-party awards.
+
+## Public identity links
+Royal LePage: https://riteshbatra.royallepage.ca/
+Rate-My-Agent: https://www.rate-my-agent.com/ritesh-batra-ratings-burlington-16813
+Birdeye: https://reviews.birdeye.com/real-estate-with-ritesh-batra-170261518231429
+Instagram: https://www.instagram.com/realestatewithriteshbatra/
+YouTube: https://www.youtube.com/@RealEstateWithRiteshBatra
+Calendly: https://calendly.com/realestatewithriteshbatra
+
+## Site architecture
+Property search is provided through the Royal LePage/BoldTrail site.
+The independent site is the authority, education, review and contact layer.
