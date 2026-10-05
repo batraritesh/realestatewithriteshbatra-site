@@ -1,3 +1,1 @@
-# Ritesh Batra Authority Site
-
-Pre-launch authority website for Ritesh Batra, Real Estate Sales Representative, Royal LePage Certified Realty, Brokerage.
+# Ritesh Batra Authority Site\n\nStaging build for review. GitHub Pages preview is intentionally marked noindex until production launch.\n
