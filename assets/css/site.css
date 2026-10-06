@@ -57,3 +57,6 @@
 .transaction-card .reviewer{margin-top:auto;padding-top:.85rem;color:var(--ink);font-size:.88rem}
 .transaction-card .reviewer strong{font-weight:800}
 .transaction-card>a{margin-top:.2rem}
+
+.grid.two-col{grid-template-columns:repeat(2,minmax(0,1fr))}
+@media(max-width:900px){.grid.two-col{grid-template-columns:1fr}}
