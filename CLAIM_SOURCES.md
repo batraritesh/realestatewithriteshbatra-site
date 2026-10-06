@@ -13,7 +13,7 @@ This file is the publishing control for factual authority claims used on the sit
 | Toronto 2024 ranking | #10 in Toronto, ON for 2024 on Rate-My-Agent | Rate-My-Agent track record | Verified |
 | Google review count | 70+ Google reviews surfaced through Birdeye | https://reviews.birdeye.com/real-estate-with-ritesh-batra-170261518231429 | Verified, dynamic |
 | 2025 transactions | 30+ transactions completed in 2025 | Internal business records supplied by Ritesh Batra | Internal |
-| Families advised | 70+ families advised | Internal business records supplied by Ritesh Batra | Internal |
+| Families advised | 200+ families advised | Internal business records supplied by Ritesh Batra | Internal |
 | Brokerage | Royal LePage Certified Realty - Mississauga, Brokerage | https://riteshbatra.royallepage.ca/ | Verified |
 | Phone | 416-939-2952 | Royal LePage profile | Verified |
 | Brokerage office | Unit 8 & 9-5618 Tenth Line West, Mississauga, ON L5M 7L9 | Royal LePage profile | Verified |
