@@ -60,3 +60,6 @@
 
 .grid.two-col{grid-template-columns:repeat(2,minmax(0,1fr))}
 @media(max-width:900px){.grid.two-col{grid-template-columns:1fr}}
+
+.about-page .grid.compact.two-col{grid-template-columns:repeat(2,minmax(0,1fr))!important}
+@media(max-width:900px){.about-page .grid.compact.two-col{grid-template-columns:1fr!important}}
