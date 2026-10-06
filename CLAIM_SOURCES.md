@@ -11,12 +11,16 @@ This file is the publishing control for factual authority claims used on the sit
 | Burlington 2024 ranking | #8 in Burlington, ON for 2024 on Rate-My-Agent | Rate-My-Agent track record | Verified |
 | Toronto 2025 ranking | #10 in Toronto, ON for 2025 on Rate-My-Agent | Rate-My-Agent track record | Verified |
 | Toronto 2024 ranking | #10 in Toronto, ON for 2024 on Rate-My-Agent | Rate-My-Agent track record | Verified |
-| Google review count | 72+ Google reviews surfaced through Birdeye | https://reviews.birdeye.com/real-estate-with-ritesh-batra-170261518231429 | Verified, dynamic |
+| Google review count | 70+ Google reviews surfaced through Birdeye | https://reviews.birdeye.com/real-estate-with-ritesh-batra-170261518231429 | Verified, dynamic |
 | 2025 transactions | 30+ transactions completed in 2025 | Internal business records supplied by Ritesh Batra | Internal |
 | Families advised | 70+ families advised | Internal business records supplied by Ritesh Batra | Internal |
 | Brokerage | Royal LePage Certified Realty - Mississauga, Brokerage | https://riteshbatra.royallepage.ca/ | Verified |
 | Phone | 416-939-2952 | Royal LePage profile | Verified |
 | Brokerage office | Unit 8 & 9-5618 Tenth Line West, Mississauga, ON L5M 7L9 | Royal LePage profile | Verified |
+
+| Service areas | Burlington, Oakville, Milton, Halton Hills, Mississauga, Toronto/GTA, Vaughan, Hamilton, Pickering, Ajax, Whitby, Oshawa, Kitchener, Waterloo, Cambridge | User-confirmed business coverage | Internal / public positioning |
+| Professional image | Canonical portrait at https://www.realestatewithriteshbatra.com/assets/img/ritesh-batra.png | User-supplied asset | Approved |
+| Google Business Profile | Google Maps place ID ChIJo6Xptx-3TmMRgsZsf3pDrGk | Google Maps | Verified |
 
 ## Publishing rules
 - Do not use #1, "best Realtor", "top Realtor", or similar superlatives unless a cited third party explicitly supports the exact wording and time period.

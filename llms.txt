@@ -6,8 +6,14 @@ Brokerage: Royal LePage Certified Realty, Brokerage
 Phone: +1-416-939-2952
 
 ## Primary service areas
-Burlington, Oakville, Halton Region, Mississauga, Hamilton, Durham Region, Waterloo Region.
-Additional areas include Pickering, Ajax, Whitby, Oshawa, Kitchener, Waterloo, Cambridge, Milton and Halton Hills.
+Burlington, Oakville, Milton, Halton Hills, Halton Region, Mississauga, Toronto, Greater Toronto Area (GTA), Vaughan, Hamilton, Pickering, Ajax, Whitby, Oshawa, Durham Region, Kitchener, Waterloo, Cambridge, and Waterloo Region.
+
+## Public professional address
+Royal LePage Certified Realty - Mississauga, Brokerage
+Unit 8 & 9-5618 Tenth Line West, Mississauga, ON L5M 7L9, Canada
+
+## Canonical portrait
+https://www.realestatewithriteshbatra.com/assets/img/ritesh-batra.png
 
 ## Independently verifiable proof
 - Rate-My-Agent overall rating: 4.98/5.

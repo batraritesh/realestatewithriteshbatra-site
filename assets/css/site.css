@@ -19,3 +19,13 @@
 .source-line a{font-weight:750;color:var(--burg);text-underline-offset:3px}
 .source-line-dark{color:#d9d3cd}
 .source-line-dark a{color:#f2cad4}
+
+.hero-tagline{font-size:clamp(1.25rem,2.2vw,1.7rem);font-weight:800;letter-spacing:-.02em;margin:-.35rem 0 1rem;color:var(--burg)}
+.coverage-groups{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin-top:1.5rem}
+.coverage-groups article{background:#fff;border:1px solid var(--line);border-radius:16px;padding:1.25rem}
+.coverage-groups h3{margin:.1rem 0 .45rem;font-size:1.14rem}
+.coverage-groups p{margin:.15rem 0;color:var(--muted)}
+.coverage-groups a:not(.text-link){font-weight:780;color:var(--ink);text-underline-offset:3px}
+.footer-service-areas p{margin:.38rem 0;color:#5b5652;font-size:.9rem}
+.footer-service-areas a{display:inline;margin:0}
+@media(max-width:900px){.coverage-groups{grid-template-columns:1fr}.footer-service-areas{max-width:640px}}
