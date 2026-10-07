@@ -11,7 +11,7 @@ This file is the publishing control for factual authority claims used on the sit
 | Burlington 2024 ranking | #8 in Burlington, ON for 2024 on Rate-My-Agent | Rate-My-Agent track record | Verified |
 | Toronto 2025 ranking | #10 in Toronto, ON for 2025 on Rate-My-Agent | Rate-My-Agent track record | Verified |
 | Toronto 2024 ranking | #10 in Toronto, ON for 2024 on Rate-My-Agent | Rate-My-Agent track record | Verified |
-| Google review count | 70+ Google reviews surfaced through Birdeye | https://reviews.birdeye.com/real-estate-with-ritesh-batra-170261518231429 | Verified, dynamic |
+| Google Business Profile | 5.0/5 from 65 Google reviews | https://reviews.birdeye.com/real-estate-with-ritesh-batra-170261518231429 | Verified, dynamic |
 | 2025 transactions | 30+ transactions completed in 2025 | Internal business records supplied by Ritesh Batra | Internal |
 | Families advised | 200+ families advised | Internal business records supplied by Ritesh Batra | Internal |
 | Brokerage | Royal LePage Certified Realty - Mississauga, Brokerage | https://riteshbatra.royallepage.ca/ | Verified |
@@ -29,3 +29,9 @@ This file is the publishing control for factual authority claims used on the sit
 - Internal metrics must not be presented as third-party awards.
 - Do not add AggregateRating/Review structured data for self-serving local-business reviews.
 - Do not add languages, credentials, designations, sales volume, average DOM or sale-to-list metrics until verified.
+
+
+## Review-source hierarchy
+- Google Business Profile is the source of truth for the current Google rating and Google review count: 5.0/5 from 65 reviews (confirmed from the live Google Business Profile on 2026-10-06).
+- Rate-My-Agent is the source of truth for Rate-My-Agent rating/review counts and historical Realtor rankings.
+- Birdeye is secondary corroboration only and must not be used as the authoritative Google review count when it differs from Google.
