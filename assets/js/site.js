@@ -61,7 +61,7 @@
     if(/^mailto:/i.test(u)) return 'email_click';
     if(/wa\.me\/14169392952/i.test(u)) return 'whatsapp_click';
     if(/calendly\.com\/realestatewithriteshbatra/i.test(u)) return 'book_consultation';
-    if(/riteshbatra\.royallepage\.ca/i.test(u)) return 'search_homes_click';
+    if(/riteshbatra\.royallepage\.ca/i.test(u)||/\/search-homes\/?(?:[?#].*)?$/i.test(u)) return 'search_homes_click';
     if(/rate-my-agent\.com|google\.com\/maps|reviews\.birdeye\.com/i.test(u)) return 'review_click';
     if(/instagram\.com|facebook\.com|linkedin\.com|tiktok\.com|youtube\.com/i.test(u)) return 'social_click';
     try{
