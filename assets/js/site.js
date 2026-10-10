@@ -7,7 +7,7 @@
 
   window.dataLayer=window.dataLayer||[];
   const RB_ANALYTICS={
-    gtmId:'GTM-REPLACE_ME',
+    gtmId:'GTM-NNVWK5MD',
     consentKey:'rb_analytics_consent_v1',
     productionHosts:['realestatewithriteshbatra.com','www.realestatewithriteshbatra.com']
   };
