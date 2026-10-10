@@ -44,7 +44,7 @@ Ritesh Batra's positioning is decision-first, data-driven real estate guidance w
 ## Public identity links
 Royal LePage: https://riteshbatra.royallepage.ca/
 Rate-My-Agent: https://www.rate-my-agent.com/ritesh-batra-ratings-burlington-16813
-Birdeye (secondary review profile): https://reviews.birdeye.com/real-estate-with-ritesh-batra-170261518231429
+Birdeye (secondary review profile): https://reviews.birdeye.com/ritesh-batra-170261518231429
 Instagram: https://www.instagram.com/realestatewithriteshbatra/
 YouTube: https://www.youtube.com/@RealEstateWithRiteshBatra
 Calendly: https://calendly.com/realestatewithriteshbatra
@@ -52,3 +52,13 @@ Calendly: https://calendly.com/realestatewithriteshbatra
 ## Site architecture
 Property search is provided through the Royal LePage/BoldTrail site.
 The independent site is the authority, education, review and contact layer.
+
+
+## Dedicated Ontario market guides
+- Burlington: https://www.realestatewithriteshbatra.com/burlington-realtor/
+- Oakville: https://www.realestatewithriteshbatra.com/oakville-realtor/
+- Mississauga: https://www.realestatewithriteshbatra.com/mississauga-realtor/
+- Hamilton: https://www.realestatewithriteshbatra.com/hamilton-realtor/
+- Halton Region: https://www.realestatewithriteshbatra.com/halton-region-realtor/
+- Durham Region: https://www.realestatewithriteshbatra.com/durham-region-realtor/
+- Waterloo Region: https://www.realestatewithriteshbatra.com/waterloo-region-realtor/
