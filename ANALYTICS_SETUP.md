@@ -9,9 +9,12 @@ The website is already instrumented for analytics. No page-by-page code changes 
   - realestatewithriteshbatra.com
   - www.realestatewithriteshbatra.com
 - Analytics stays completely off on the GitHub Pages staging hostname
-- Consent banner appears only when a valid GTM container ID is configured
-- GTM loads only after the visitor selects **Accept analytics**
-- Decline is respected and stored in the browser
+- Privacy consent manager appears on production when preferences have not yet been saved
+- Google Consent Mode v2 defaults analytics/ad storage and ad-personalization signals to denied
+- GTM loads only after the visitor grants **Analytics** consent
+- Advertising storage, ad user data and ad personalization remain denied by the website configuration
+- The visitor can Accept all, Reject optional, manage Analytics and External review content separately, and reopen **Privacy choices** from the footer
+- The live Elfsight review widget is not loaded until External review content is permitted
 - No names, emails, phone numbers, form values or property addresses are intentionally sent to the dataLayer
 
 ### Custom events already emitted
@@ -84,7 +87,7 @@ Do not add a separate GTM snippet to each HTML page. The central loader already 
    - Trigger: Initialization - All Pages
 5. Save.
 
-Because the website does not load GTM until analytics consent is granted, the Google tag cannot fire before consent.
+Because the website does not load GTM until Analytics consent is granted, the Google tag cannot fire before consent. Consent Mode v2 signals are queued before GTM is loaded.
 
 ## GTM variables
 
@@ -161,15 +164,16 @@ Use GTM Preview / Tag Assistant.
 
 Verify:
 1. No GTM request occurs on the GitHub Pages staging hostname.
-2. On production, before consent, GTM is not loaded.
-3. Click Decline: GTM remains unloaded.
-4. Clear site data, reload, click Accept analytics: GTM loads.
-5. Verify a page view reaches GA4.
-6. Test Call, WhatsApp, Book Consultation, Search Homes and Email.
-7. Confirm the correct rb_* custom event appears in Preview and GA4 DebugView/Realtime.
-8. Confirm no PII appears in event parameters.
-9. Publish the GTM container only after all tests pass.
+2. On production, before consent, GTM is not loaded and optional consent defaults to denied.
+3. Click Reject optional: GTM remains unloaded and the external review widget remains blocked.
+4. Open Privacy choices from the footer, enable Analytics, save: GTM loads.
+5. On the Reviews page, verify the Elfsight widget loads only after External review content is enabled.
+6. Verify a page view reaches GA4.
+7. Test Call, WhatsApp, Book Consultation, Search Homes and Email.
+8. Confirm the correct rb_* custom event appears in Preview and GA4 DebugView/Realtime.
+9. Confirm no PII appears in event parameters.
+10. Publish the GTM container only after all tests pass.
 
 ## Production status
 
-Until the placeholder GTM ID is replaced with a real GTM- ID, analytics remains disabled.
+The production site is configured with GTM-NNVWK5MD. Analytics remains consent-gated and does not load until the visitor enables Analytics.
