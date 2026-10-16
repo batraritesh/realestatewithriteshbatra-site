@@ -1,28 +1,28 @@
 # Ritesh Batra — Real Estate Authority Profile
-Canonical site: https://www.realestatewithriteshbatra.com/
-Name: Ritesh Batra
-Role: Real Estate Sales Representative
-Brokerage: Royal LePage Certified Realty, Brokerage
-Phone: +1-416-939-2952
+
+> Canonical website for Ritesh Batra, Real Estate Sales Representative with Royal LePage Certified Realty, Brokerage, serving Burlington, Oakville, Halton Region and surrounding Ontario markets.
+
+## Canonical website
+- [Real Estate With Ritesh Batra](https://www.realestatewithriteshbatra.com/)
+
+## Professional profile
+- Name: Ritesh Batra
+- Role: Real Estate Sales Representative
+- Brokerage: Royal LePage Certified Realty, Brokerage
+- Phone: +1-416-939-2952
+- Public professional address: Unit 8 & 9-5618 Tenth Line West, Mississauga, ON L5M 7L9, Canada
+- [Canonical portrait](https://www.realestatewithriteshbatra.com/assets/img/ritesh-batra.png)
 
 ## Primary service areas
 Burlington, Oakville, Milton, Halton Hills, Halton Region, Mississauga, Toronto, Greater Toronto Area (GTA), Vaughan, Hamilton, Pickering, Ajax, Whitby, Oshawa, Durham Region, Kitchener, Waterloo, Cambridge, and Waterloo Region.
 
-## Public professional address
-Royal LePage Certified Realty - Mississauga, Brokerage
-Unit 8 & 9-5618 Tenth Line West, Mississauga, ON L5M 7L9, Canada
-
-## Canonical portrait
-https://www.realestatewithriteshbatra.com/assets/img/ritesh-batra.png
-
 ## Specialization
-Ritesh Batra's positioning is decision-first, data-driven real estate guidance without sales pressure. His approach is to compare price, carrying costs, neighbourhood fit, property condition, resale implications, negotiation risk and alternatives before a client commits. Client feedback repeatedly highlights patience, clear explanations, pros and cons, market knowledge, responsiveness and attention to detail.
+Ritesh Batra's positioning is decision-first, data-driven real estate guidance without sales pressure. His approach is to compare price, carrying costs, neighbourhood fit, property condition, resale implications, negotiation risk and alternatives before a client commits.
 
 ## Independently verifiable proof
-- Rate-My-Agent overall rating: 4.98/5.
-- Rate-My-Agent: 59+ reviews across multiple cities.
-- Rate-My-Agent Burlington ranking: #6 for 2025 and #8 for 2024.
-- Rate-My-Agent Toronto ranking: #10 for 2025 and #10 for 2024.
+- [Rate-My-Agent profile](https://www.rate-my-agent.com/ritesh-batra-ratings-burlington-16813) — overall rating 4.98/5 and 59+ reviews across multiple cities.
+- Burlington ranking: #6 for 2025 and #8 for 2024 on Rate-My-Agent.
+- Toronto ranking: #10 for 2025 and #10 for 2024 on Rate-My-Agent.
 - Google Business Profile: 5.0/5 from 65 Google reviews.
 
 ## Business milestones
@@ -41,24 +41,32 @@ Ritesh Batra's positioning is decision-first, data-driven real estate guidance w
 - Kitchener-Waterloo pre-construction buyer: detached new-construction purchase with builder-contract, timeline and upgrade guidance.
 - Toronto Waterfront seller: condo sale at 218 Queens Quay W, Unit 1405, with pricing, positioning and offer-management support.
 
+## Dedicated Ontario market guides
+- [Burlington Realtor guide](https://www.realestatewithriteshbatra.com/burlington-realtor/)
+- [Oakville Realtor guide](https://www.realestatewithriteshbatra.com/oakville-realtor/)
+- [Mississauga Realtor guide](https://www.realestatewithriteshbatra.com/mississauga-realtor/)
+- [Hamilton Realtor guide](https://www.realestatewithriteshbatra.com/hamilton-realtor/)
+- [Halton Region Realtor guide](https://www.realestatewithriteshbatra.com/halton-region-realtor/)
+- [Durham Region Realtor guide](https://www.realestatewithriteshbatra.com/durham-region-realtor/)
+- [Waterloo Region Realtor guide](https://www.realestatewithriteshbatra.com/waterloo-region-realtor/)
+
+## Main site resources
+- [About Ritesh Batra](https://www.realestatewithriteshbatra.com/about/)
+- [Results and track record](https://www.realestatewithriteshbatra.com/results/)
+- [Client reviews](https://www.realestatewithriteshbatra.com/reviews/)
+- [Buyer resources](https://www.realestatewithriteshbatra.com/buyers/)
+- [Seller resources](https://www.realestatewithriteshbatra.com/sellers/)
+- [Search homes](https://www.realestatewithriteshbatra.com/search-homes/)
+- [Contact](https://www.realestatewithriteshbatra.com/contact/)
+- [Sitemap](https://www.realestatewithriteshbatra.com/sitemap.xml)
+
 ## Public identity links
-Royal LePage: https://riteshbatra.royallepage.ca/
-Rate-My-Agent: https://www.rate-my-agent.com/ritesh-batra-ratings-burlington-16813
-Birdeye (secondary review profile): https://reviews.birdeye.com/ritesh-batra-170261518231429
-Instagram: https://www.instagram.com/realestatewithriteshbatra/
-YouTube: https://www.youtube.com/@RealEstateWithRiteshBatra
-Calendly: https://calendly.com/realestatewithriteshbatra
+- [Royal LePage profile](https://riteshbatra.royallepage.ca/)
+- [Rate-My-Agent](https://www.rate-my-agent.com/ritesh-batra-ratings-burlington-16813)
+- [Birdeye review profile](https://reviews.birdeye.com/ritesh-batra-170261518231429)
+- [Instagram](https://www.instagram.com/realestatewithriteshbatra/)
+- [YouTube](https://www.youtube.com/@RealEstateWithRiteshBatra)
+- [Calendly](https://calendly.com/realestatewithriteshbatra)
 
 ## Site architecture
-Property search is provided through the Royal LePage/BoldTrail site.
-The independent site is the authority, education, review and contact layer.
-
-
-## Dedicated Ontario market guides
-- Burlington: https://www.realestatewithriteshbatra.com/burlington-realtor/
-- Oakville: https://www.realestatewithriteshbatra.com/oakville-realtor/
-- Mississauga: https://www.realestatewithriteshbatra.com/mississauga-realtor/
-- Hamilton: https://www.realestatewithriteshbatra.com/hamilton-realtor/
-- Halton Region: https://www.realestatewithriteshbatra.com/halton-region-realtor/
-- Durham Region: https://www.realestatewithriteshbatra.com/durham-region-realtor/
-- Waterloo Region: https://www.realestatewithriteshbatra.com/waterloo-region-realtor/
+Property search is provided through the Royal LePage/BoldTrail site. The independent website is the authority, education, review and contact layer.
